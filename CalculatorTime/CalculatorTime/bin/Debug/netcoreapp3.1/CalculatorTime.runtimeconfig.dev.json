@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\rogot\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\rogot\\.nuget\\packages"
+    ]
+  }
+}

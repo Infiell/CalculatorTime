@@ -1,0 +1,15 @@
+C:\Users\rogot\source\repos\CalculatorTime\CalculatorTime\bin\Debug\netcoreapp3.1\CalculatorTime.exe
+C:\Users\rogot\source\repos\CalculatorTime\CalculatorTime\bin\Debug\netcoreapp3.1\CalculatorTime.deps.json
+C:\Users\rogot\source\repos\CalculatorTime\CalculatorTime\bin\Debug\netcoreapp3.1\CalculatorTime.runtimeconfig.json
+C:\Users\rogot\source\repos\CalculatorTime\CalculatorTime\bin\Debug\netcoreapp3.1\CalculatorTime.runtimeconfig.dev.json
+C:\Users\rogot\source\repos\CalculatorTime\CalculatorTime\bin\Debug\netcoreapp3.1\CalculatorTime.dll
+C:\Users\rogot\source\repos\CalculatorTime\CalculatorTime\bin\Debug\netcoreapp3.1\CalculatorTime.pdb
+C:\Users\rogot\source\repos\CalculatorTime\CalculatorTime\obj\Debug\netcoreapp3.1\CalculatorTime.csprojAssemblyReference.cache
+C:\Users\rogot\source\repos\CalculatorTime\CalculatorTime\obj\Debug\netcoreapp3.1\CalculatorTime.Form1.resources
+C:\Users\rogot\source\repos\CalculatorTime\CalculatorTime\obj\Debug\netcoreapp3.1\CalculatorTime.csproj.GenerateResource.cache
+C:\Users\rogot\source\repos\CalculatorTime\CalculatorTime\obj\Debug\netcoreapp3.1\CalculatorTime.AssemblyInfoInputs.cache
+C:\Users\rogot\source\repos\CalculatorTime\CalculatorTime\obj\Debug\netcoreapp3.1\CalculatorTime.AssemblyInfo.cs
+C:\Users\rogot\source\repos\CalculatorTime\CalculatorTime\obj\Debug\netcoreapp3.1\CalculatorTime.csproj.CoreCompileInputs.cache
+C:\Users\rogot\source\repos\CalculatorTime\CalculatorTime\obj\Debug\netcoreapp3.1\CalculatorTime.dll
+C:\Users\rogot\source\repos\CalculatorTime\CalculatorTime\obj\Debug\netcoreapp3.1\CalculatorTime.pdb
+C:\Users\rogot\source\repos\CalculatorTime\CalculatorTime\obj\Debug\netcoreapp3.1\CalculatorTime.genruntimeconfig.cache
